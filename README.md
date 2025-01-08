@@ -3,7 +3,7 @@
 This repository stores the data for the experiment performed with Large Language Models to determine their impact on the design of evaluation protocols for usability studies.
 
 ## Step 1: Prompt Creation
-Starting from the objectives of the study, the was refined iteratively by the researchers. 
+Starting from the objectives of the study, the prompt was refined iteratively by the researchers. 
 
 ## Step 2: Task Feasibility Analysis
 The feasibility of the tasks was performed by three researchers who assigned a binary label (Yes/No) to each task, which indicates whether the task refers to a functionality that actually exists and is provided by the system. 
